@@ -1,6 +1,4 @@
-package it.prwe.thread;
-
-import java.util.concurrent.Callable;
+package it.prwe.thread08;
 
 /**
  * @Author zhengxr

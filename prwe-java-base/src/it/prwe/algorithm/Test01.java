@@ -2,6 +2,10 @@ package it.prwe.algorithm;
 
 import it.prwe.commonclass.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 /**
  * @Author zhengxr
  * @Date 2022/7/26 11:15
@@ -47,5 +51,6 @@ public class Test01 {
                 System.out.println(test[k]);
             }
         }
+
     }
 }
